@@ -1,2 +1,2 @@
-# chat-app-server
-Small scale implementation of real time chat using websocket.io, React and Nodejs.
+# chat-app
+Small scale implementation of websocket.io using React and Nodejs without db.
